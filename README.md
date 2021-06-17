@@ -25,6 +25,10 @@ npm run test-storybook
 - [Testing with Static Storybook App](#testing-with-static-storybook-app)
 - [Additional Configuration Options](#additional-configuration-options)
 
+## Support
+
+For support, please visit [The Sauce Labs Community Hub](https://community.saucelabs.com).
+
 ---
 
 ### Testing Interactions
